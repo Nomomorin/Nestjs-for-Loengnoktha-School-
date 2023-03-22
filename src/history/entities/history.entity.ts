@@ -9,6 +9,9 @@ export class history {
   drugRecipient: string;
 
   @Column()
+  illness: string;
+
+  @Column()
   list_drug: string;
 
   @Column()
