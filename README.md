@@ -52,6 +52,7 @@ back end ระบบจ่ายยาของโรงเรียนเล�
 		-history
 			-id (number)
 			-drugRecipient (text)
+			-illness (text)
 			-list_drug (text)
 			-nameDispenser (text)
 			-date
